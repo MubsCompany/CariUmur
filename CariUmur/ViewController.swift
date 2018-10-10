@@ -5,7 +5,7 @@
 //  Created by Obed RPL D on 08/10/18.
 //  Copyright © 2018 Syams.org. All rights reserved.
 //
-
+//ini kami edit
 import UIKit
 
 class ViewController: UIViewController {
